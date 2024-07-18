@@ -1,11 +1,9 @@
 package karvonen_practice.src.main.java.com.heartrate;
 
-import java.util.HexFormat;
+//import java.util.HexFormat;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
-
-import com.heartrate.*;
+import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
